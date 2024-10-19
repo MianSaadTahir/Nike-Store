@@ -21,19 +21,20 @@
 
 ## Screenshots
 <img src="assets/1.png" alt="Screenshot" width="50%">
-![Screenshot](assets/1.png)
-![Screenshot](assets/2.png)
-![Screenshot](assets/3.png)
-![Screenshot](assets/4.png)
-![Screenshot](assets/5.png)
+<img src="assets/2.png" alt="Screenshot" width="50%">
+<img src="assets/3.png" alt="Screenshot" width="50%">
+<img src="assets/4.png" alt="Screenshot" width="50%">
+<img src="assets/5.png" alt="Screenshot" width="50%">
 
 ## Usage
 1. Clone the repository:
-   `git clone https://github.com/miansaadtahir/fivestarhostel.git`
-2. Navigate to the project directory:
-   `cd FiveStarHostel/ HostelUI
-/ Resistay/ bin/ debug`
-3. Launch the `Resistay.exe` file.
+   `git clone https://github.com/miansaadtahir/NikeStore.git`
+2. Navigate to:
+   `cd NikeStore/ SQLdbScript/`
+3. Run the `nikeScript.sql` in SSMS
+4. Navigate to the project directory:
+   `cd NikeStore/ NikeWinForm/ bin/ debug`
+5. Launch the `NikeWinForm.exe` file.
 
 ## Documentation
 For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
