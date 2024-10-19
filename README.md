@@ -20,11 +20,11 @@
 - **Responsive Design**: A clean and modern interface that works well on various devices.
 
 ## Screenshots
-<img src="assets/1.png" alt="Screenshot" width="50%">
-<img src="assets/2.png" alt="Screenshot" width="50%">
-<img src="assets/3.png" alt="Screenshot" width="50%">
-<img src="assets/4.png" alt="Screenshot" width="50%">
-<img src="assets/5.png" alt="Screenshot" width="50%">
+<img src="assets/1.png" alt="Screenshot" width="75%">
+<img src="assets/2.png" alt="Screenshot" width="75%">
+<img src="assets/3.png" alt="Screenshot" width="75%">
+<img src="assets/4.png" alt="Screenshot" width="75%">
+<img src="assets/5.png" alt="Screenshot" width="75%">
 
 ## Usage
 1. Clone the repository:
