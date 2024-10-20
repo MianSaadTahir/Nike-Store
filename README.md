@@ -30,7 +30,7 @@
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/NikeStore.git`
 2. Navigate to:
-   `cd NikeStore/ SQLdbScript/`
+   `cd NikeStore/ script/`
 3. Run the `nikeScript.sql` in SSMS
 4. Navigate to the project directory:
    `cd NikeStore/ NikeWinForm/ bin/ debug`
