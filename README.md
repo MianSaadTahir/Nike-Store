@@ -1,4 +1,4 @@
-# NikeStore
+# Nike Store
 
 **NikeStore** is a Window Form inventory management system developed in C# with MS SQL database integration . It provides a centralized platform for managing inventory, sales, and customer relations aimed at enhancing efficiency for both admin and customer users. This system follows Object-Oriented Programming (OOP) principles, including association, encapsulation, inheritance, and polymorphism. It is built using a 3-tier architecture consisting of BL, DL, UI.
 
