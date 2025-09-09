@@ -19,10 +19,10 @@ A Window Form inventory management system developed in C# with MSSQL database in
 - A clean and modern interface that works well on various devices.
 
 ## Screenshots
-<img src="assets/1.png" alt="Screenshot">
-<img src="assets/3.png" alt="Screenshot">
-<img src="assets/4.png" alt="Screenshot">
-<img src="assets/5.png" alt="Screenshot">
+<img src="assets/1.png" alt="Screenshot" width="75%">
+<img src="assets/3.png" alt="Screenshot" width="75%">
+<img src="assets/4.png" alt="Screenshot" width="75%">
+<img src="assets/5.png" alt="Screenshot" width="75%">
 
 
 ## Documentation
