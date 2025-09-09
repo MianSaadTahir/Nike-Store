@@ -11,12 +11,12 @@ A Window Form inventory management system developed in C# with MSSQL database in
 - [Contributing](#contributing)
 
 ## Features
-- Built on 3 tier model of Business layer, Data layer and User Interface.
-- Backend business logic and data handling separated into a DLL framework, making it reusable and flexible for future UI developments.
-- Distinct login system for admin, and customers.
-- Efficiently track, update, and manage product stock levels in real-time.
-- View and analyze sales data .
-- A clean and modern interface that works well on various devices.
+- Built on 3 tier model of Business layer, Data layer and User Interface
+- Backend business logic and data handling separated into a DLL framework, making it reusable and flexible for future UI developments
+- Distinct login system for admin, and customers
+- Efficiently track, update, and manage product stock levels in real-time
+- View and analyze sales data
+- A clean and modern interface that works well on various devices
 
 ## Screenshots
 <img src="assets/1.png" alt="Screenshot" width="75%">
@@ -31,7 +31,8 @@ For a detailed overview of the project and its features, visit the [Documentatio
 ## Technologies Used
 - C#
 - Windows Forms
-- MSSQL Database 
+- MSSQL Database
+  
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/NikeStore.git`
@@ -40,7 +41,7 @@ For a detailed overview of the project and its features, visit the [Documentatio
 3. Run the `nikeScript.sql` in SSMS
 4. Navigate to the project directory:
    `cd .\NikeStore\NikeWinForm\bin\debug`
-5. Launch the `NikeWinForm.exe` file.
+5. Launch the `NikeWinForm.exe` file
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
