@@ -1,6 +1,6 @@
 # Nike Store
 
-A Window Form inventory management system developed in C# with MS SQL database integration . It provides a centralized platform for managing inventory, sales, and customer relations aimed at enhancing efficiency for both admin and customer users. This system follows Object-Oriented Programming (OOP) principles.
+A Window Form inventory management system developed in C# with MSSQL database integration . It provides a centralized platform for managing inventory, sales, and customer relations aimed at enhancing efficiency for both admin and customer users. This system follows Object-Oriented Programming (OOP) principles.
 
 ## Table of Contents
 - [Features](#features)
