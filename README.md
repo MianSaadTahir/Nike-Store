@@ -9,7 +9,6 @@
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **3 tier model**: Business layer, Data layer and User Interface
