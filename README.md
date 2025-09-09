@@ -5,9 +5,9 @@ A Window Form inventory management system developed in C# with MSSQL database in
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Usage](#usage)
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
+- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Features
@@ -24,6 +24,14 @@ A Window Form inventory management system developed in C# with MSSQL database in
 <img src="assets/4.png" alt="Screenshot">
 <img src="assets/5.png" alt="Screenshot">
 
+
+## Documentation
+For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
+
+## Technologies Used
+- C#
+- Windows Forms
+- MSSQL Database 
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/NikeStore.git`
@@ -33,14 +41,6 @@ A Window Form inventory management system developed in C# with MSSQL database in
 4. Navigate to the project directory:
    `cd .\NikeStore\NikeWinForm\bin\debug`
 5. Launch the `NikeWinForm.exe` file.
-
-## Documentation
-For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
-
-## Technologies Used
-- C#
-- Windows Forms
-- MSSQL Database 
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
