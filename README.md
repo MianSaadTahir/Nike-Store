@@ -9,7 +9,7 @@ A Window Form inventory management system developed in C# with MSSQL database in
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [License](#license)
 ## Features
 - Built on 3 tier model of Business layer, Data layer and User Interface
 - Backend business logic and data handling separated into a DLL framework, making it reusable and flexible for future UI developments
@@ -45,4 +45,9 @@ For a detailed overview of the project and its features, visit the [Documentatio
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/NikeStore/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/NikeStore/issues).
+
+
+## License
+
+This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/Nike-Store/blob/main/LICENSE).
